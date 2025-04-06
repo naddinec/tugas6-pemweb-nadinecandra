@@ -1,4 +1,3 @@
-// Nadine Candra Prabawati - 245150401111018
 <?php
 session_start();
 
